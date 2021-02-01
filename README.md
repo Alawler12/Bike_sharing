@@ -4,7 +4,7 @@
 The purpose of this analysis was to create visualizations with Tableau that analyze the ridership of Citi Bikes in NYC to determine how successful a deployment might be in another city, Des Moines.
 
 ### Results
-Here are the most pertinent visualizations created to analyize the data.
+Here are the most pertinent visualizations created to analyze the data.
 
 These maps show that the most popular beginning and ending locations for bike rides are mostly concentrated in the downtown Manhattan area.  This area of the city is mostly commercial rather than residential, suggesting that bike rides are most often taken by those commuting to work from their homes in the city, and tourists visiting the popular areas of town.
 
