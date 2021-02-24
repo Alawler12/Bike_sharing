@@ -19,12 +19,6 @@ The majority of users are those who identify as Male.
 
 ![gender.PNG](https://github.com/Alawler12/Bike_sharing/blob/main/screenshots/gender.PNG)
 
-Checkout times and trip duration show that most trips are short trips, taken during rush hour.
-
-![Checkout_times_all.PNG](https://github.com/Alawler12/Bike_sharing/blob/main/screenshots/Checkout_times_all.PNG)
-
-![Checkout_times_gender.PNG](https://github.com/Alawler12/Bike_sharing/blob/main/screenshots/Checkout_times_gender.PNG)
-
 Peak hours for bike trips show that the most number of bike trips are taken during the morning and evening commuting hours, particularly the evening rush hour.  This suggests that users often use Citi Bike as their means to travel between home and work.
 
 ![peak_hours.PNG)](https://github.com/Alawler12/Bike_sharing/blob/main/screenshots/peak_hours.PNG)
